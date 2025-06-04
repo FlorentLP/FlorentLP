@@ -1,7 +1,7 @@
 # Hi, I'm Florent 👋
 
 [LinkedIn](https://www.linkedin.com/in/florent-le-pape-32700a170/)
-[Website]([https://www.linkedin.com/in/florent-le-pape-32700a170/](https://florent.lepape.me/))
+[Website](https://florent.lepape.me/)
 
 
 I'm a **French Software Engineer** based in **Luxembourg**, currently working at [Cascade Lab](https://cascade.lu/), a startup tackling **AML/KYC challenges** through smart automation and robust software.
