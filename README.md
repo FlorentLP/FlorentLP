@@ -6,7 +6,8 @@
 [Website](https://florent.lepape.me/)
 
 
-I'm a **French Software Engineer** based in **Luxembourg**, currently working at [Cascade Lab](https://cascade.lu/), a startup tackling **AML/KYC challenges** through smart automation and robust software.
+I'm a **French Software Engineer** based in **Paris**, currently looking for a work as Software Engineer 
+Previously worked at [Cascade Lab](https://cascade.lu/), a startup tackling **AML/KYC challenges** through smart automation and robust software.
 
 ---
 
