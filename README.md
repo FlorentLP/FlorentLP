@@ -12,10 +12,10 @@ Previously worked at [Cascade Lab](https://cascade.lu/), a startup tackling **AM
 
 ---
 
-### 💼 What I Do  
-- 🧠 **Software Engineering** @ Cascade Lab  
-  - Frontend: `Angular`  
-  - Backend: `Spring Boot`  
+### 💼 What I can do  
+- 🧠 **Software Engineering**
+  - Frontend: `Angular`/`Typescript`
+  - Backend: `Java`/`Spring Boot` 
   - Database: `PostgreSQL`  
   - Cloud & Automation: `Azure`, `Bicep`, `GitHub Actions`
 
