@@ -1,4 +1,4 @@
-# Hi, I'm Florent 👋
+# Hi, I'm Florent
 
 [LinkedIn](https://www.linkedin.com/in/florent-le-pape-32700a170/)
 
@@ -12,37 +12,35 @@ Previously worked at [Cascade Lab](https://cascade.lu/), a startup tackling **AM
 
 ---
 
-### 💼 What I can do  
-- 🧠 **Software Engineering**
+###  What I can do  
+-  **Software Engineering**
   - Frontend: `Angular`/`Typescript`
   - Backend: `Java`/`Spring Boot` 
   - Database: `PostgreSQL`  
   - Cloud & Automation: `Azure`, `Bicep`, `GitHub Actions`
 
-- 📱 **Side Project**: [**Habiti**](https://habiti.lepape.me/)  
+-  **Side Project**: [**Habiti**](https://habiti.lepape.me/)  
   A habit-tracking mobile app built with **React Native + Firebase**, designed to encourage **progress sharing** and a **healthy lifestyle**.
 
 ---
 
-### 🛠️ What I’m Exploring  
-- 🔄 Relay & GraphQL for declarative data fetching  
-- ⚛️ Advanced patterns in modern React  
-- 🎨 Clean UIs with **pastel colors** and elegant interactions  
+###  What I’m Exploring  
+-  Relay & GraphQL for declarative data fetching  
+-  Advanced patterns in modern React  
+-  Clean UIs with **pastel colors** and elegant interactions  
 
 ---
 
-### ✍️ What I Love  
-- 💡 Personal development & lifelong learning  
-- ⚙️ Developer experience, automation & clean architecture  
-- 📝 Sharing ideas in **French and English**  
-- 🌍 Connecting with others on the same journey  
+###  What I Love  
+-  Personal development & lifelong learning  
+-  Developer experience, automation & clean architecture  
+-  Sharing ideas in **French and English**  
+-  Connecting with others on the same journey  
 
 ---
 
-### 🚀 Mission & Philosophy  
+###  Mission & Philosophy  
 
-> _Build meaningful tools. Stay curious. Share what I learn. Helping others._  
+> Stay curious. Helping others.
 
 ---
-
-Thanks for stopping by! Let’s connect 🤝  
