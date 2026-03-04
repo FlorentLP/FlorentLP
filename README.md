@@ -24,18 +24,11 @@ Previously worked at [Cascade Lab](https://cascade.lu/), a startup tackling **AM
 
 ---
 
-###  What I’m Exploring  
--  Relay & GraphQL for declarative data fetching  
--  Advanced patterns in modern React  
--  Clean UIs with **pastel colors** and elegant interactions  
-
----
-
 ###  What I Love  
 -  Personal development & lifelong learning  
 -  Developer experience, automation & clean architecture  
 -  Sharing ideas in **French and English**  
--  Connecting with others on the same journey  
+-  Connecting with others and learn about their goals  
 
 ---
 
