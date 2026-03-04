@@ -25,10 +25,10 @@ Previously worked at [Cascade Lab](https://cascade.lu/), a startup tackling **AM
 ---
 
 ###  What I Love  
--  Personal development & lifelong learning  
--  Developer experience, automation & clean architecture  
--  Sharing ideas in **French and English**  
--  Connecting with others and learn about their goals  
+-  Personal development 
+-  AOE4 & LoL
+-  Psychology & designing systems
+-  Connecting with others & learn about their goals  
 
 ---
 
