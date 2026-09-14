@@ -6,7 +6,7 @@
 [Website](https://florent.lepape.me/)
 
 
-I'm a **French Software Engineer** based in **Paris**, currently looking for a work as Software Engineer 
+I'm a **French Software Engineer** based in **Paris**, currently working as Software Engineer specialized in AI at [Wezen](https://wezen.com/) 
 
 Previously worked at [Cascade Lab](https://cascade.lu/), a startup tackling **AML/KYC challenges** through smart automation and robust software.
 
